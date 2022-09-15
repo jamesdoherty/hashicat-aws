@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Welcome to someones app. Testing deployment from Terraform Cloud.
+  Welcome to someones app. Testing deployment from Terraform Cloud with pull request.
   <!-- END -->
 
   </div>
